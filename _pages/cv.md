@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[PDF](https://www.hkbu.edu.hk/~zitansun/Sun_Zitan_CV.pdf)
+[PDF](https://www.comp.hkbu.edu.hk/~zitansun/Sun_Zitan_CV.pdf)
 
 
 Education
