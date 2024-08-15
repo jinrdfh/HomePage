@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[PDF](www.hkbu.edu.hk/~zitansun/Sun_Zitan_CV.pdf)
 Education
 ======
 * Ph.D in Computer Science, Hong Kong Baptist University (<strong>HKBU</strong>), supervised by [Dr. Xin Huang](https://www.comp.hkbu.edu.hk/~xinhuang), Hong Kong, China, 2024
