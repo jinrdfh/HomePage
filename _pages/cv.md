@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Hong Kong Baptist University (<strong>HKBU</strong>), supervised by [Dr. Xin Huang](https://www.comp.hkbu.edu.hk/~xinhuang), Hong Kong, China, 2024 (expected)
+* Ph.D in Computer Science, Hong Kong Baptist University (<strong>HKBU</strong>), supervised by [Dr. Xin Huang](https://www.comp.hkbu.edu.hk/~xinhuang), Hong Kong, China, 2024
 * Visiting Research PhD Student in Computer Science and Engineering, Nanyang Technological University (<strong>NTU</strong>), supervised by [Dr. Long Cheng](https://personal.ntu.edu.sg/c.long/), Singapore, 2023
 * B.S. in Electronics and Information Engineering, Huazhong University Of Science And Technology (<strong>HUST</strong>), Hubei, China, 2019
 
